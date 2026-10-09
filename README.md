@@ -29,10 +29,6 @@ The report is organized into dedicated pages:
 6.	Recommendations — Actionable recommendations based on the analytical findings.
 ## 🖼️ Dashboard Preview
 > Interactive Power BI dashboards — click any image to open it full-size.
-## 🖼️ Dashboard Preview
-
-> Six Power BI dashboard pages — click any image to view it full-size.
-
 | **Executive Summary** | **Funnel Analysis** |
 |:---:|:---:|
 | [![Executive Summary](screenshots/1.Executive%20Summary.jpg)](screenshots/1.Executive%20Summary.jpg) | [![Funnel Analysis](screenshots/2.Funnel%20Analysis.jpg)](screenshots/2.Funnel%20Analysis.jpg) |
