@@ -17,7 +17,7 @@ Using SQL for data exploration and business analysis and Power BI for interactiv
 -	Conversion funnel: Overall session-to-purchase conversion is 9.18%. The largest funnel drop occurs between product views and add-to-cart actions, with a conversion rate of 30.02%.
 -	Marketing performance: Email has the highest conversion rate (13.63%) and ROAS (4.51) among the analyzed channels.
 -	Mobile performance: Mobile conversion is 7.89%, compared with 11.49% on Desktop and 11.15% on Tablet.
--	Checkout analysis: Mobile checkout v2 has a lower checkout-to-purchase conversion rate than Standard (38.14% vs. 68.79%). This is a potential issue for further investigation, not proof of causation.
+-	Checkout analysis: Mobile checkout v2 has a lower checkout-to-purchase conversion rate than Standard (38.14% vs. 66.39%). This is a potential issue for further investigation, not proof of causation.
 -	Customer retention: 119 of 486 customers with at least one successful purchase made more than one successful purchase, resulting in a repeat purchase rate of 24.49%.
 -	Product categories: Fashion generates the highest merchandise revenue (€31,016.19), while Beauty has the highest cancellation and refund rate.
 ## 🖥️ Power BI Dashboard Pages
@@ -66,8 +66,7 @@ The analysis highlights several opportunities to improve e-commerce performance:
 -	Investigate cancellation and refund patterns in the Beauty category.
 ## 📌 Conclusion
 The project demonstrates how SQL and Power BI can be combined to turn raw e-commerce data into actionable business insights. The analysis identifies opportunities to improve conversion, evaluate marketing efficiency, investigate mobile checkout performance, and strengthen customer retention.
-## 🧰 Technologies
-SQL · Power BI Desktop · DAX · Data Modeling · Data Analysis · Data Visualization
+
 ## 👩‍💻 Author
 **Anna Gniedko**
 - 📧 as.gnedko@gmail.com
