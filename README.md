@@ -1,5 +1,6 @@
 # **📊 E-commerce Performance & Marketing Analytics**
 An end-to-end e-commerce analytics project combining SQL analysis and interactive Power BI dashboards to evaluate sales performance, conversion funnels, marketing effectiveness, device behavior, customer retention, and product category performance.
+
 **Tools:** SQL · Power BI · DAX · Data Modeling · Data Visualization
 ## 🎯 Project Overview
 The goal of this project was to understand why increasing website traffic does not necessarily translate into proportional growth in sales and revenue.
