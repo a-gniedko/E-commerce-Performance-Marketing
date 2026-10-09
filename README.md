@@ -23,10 +23,10 @@ Using SQL for data exploration and business analysis and Power BI for interactiv
 ## 🖥️ Power BI Dashboard Pages
 The report is organized into dedicated pages:
 1.	Executive Summary — Overall KPIs, monthly performance, conversion funnel, and key business insights.
-2.	Marketing Performance — Marketing spend, revenue, ROAS, channel comparisons, and campaign performance.
-3.	Device & Checkout Analysis — Conversion by device, mobile funnel trends, and checkout version comparison.
-4.	Orders & Revenue — Gross and net revenue, order trends, average order value, category performance, and order status.
-5.	Customer Retention — Repeat purchasing behavior and customer segment analysis.
+2.  Funnel Analysis — Conversion rates and drop-offs across the purchase journey.
+3.	Marketing Performance — Marketing spend, revenue, ROAS, channel comparisons, and campaign performance.
+4.	Device & Checkout Analysis — Conversion by device, mobile funnel trends, and checkout version comparison.
+5.	Orders & Revenue — Gross and net revenue, order trends, average order value, category performance, and order status.
 6.	Recommendations — Actionable recommendations based on the analytical findings.
 ## 🖼️ Dashboard Preview
 > Interactive Power BI dashboards — click any image to open it full-size.
@@ -39,7 +39,19 @@ The report is organized into dedicated pages:
 | **Orders & Revenue** | **Recommendations** |
 | [![Orders & Revenue](screenshots/5.Orders%26Revenue.jpg)](screenshots/5.Orders%26Revenue.jpg) | [![Recommendations](screenshots/6.%20Recommeddations.jpg)](screenshots/6.%20Recommeddations.jpg) |
 
+## 📂 Dataset & Tools
 
+This project uses educational e-commerce data for portfolio and analytical purposes. MySQL was used for database creation, data quality checks, and SQL analysis, while Power BI was used to build an interactive dashboard suite and visualize key business metrics.
+
+## ⚙️ Data Loading Process
+
+The data preparation workflow followed these steps:
+
+1. **Database Setup:** Created the MySQL database and imported the source tables.
+2. **Data Quality Checks:** Checked table structure, data consistency, missing values, and duplicates.
+3. **SQL Analysis:** Prepared and analyzed data for traffic, conversion funnels, marketing performance, devices, orders, revenue, and repeat purchases.
+4. **Power BI Integration:** Connected the prepared data to Power BI, established relationships between fact and dimension tables, and developed interactive dashboards.
+5. 
 ## 🧮 SQL Analysis
 SQL was used to prepare and validate the data and investigate business performance through a series of analytical steps:
 -	Database creation and data quality checks
