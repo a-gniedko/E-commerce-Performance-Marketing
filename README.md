@@ -29,14 +29,19 @@ The report is organized into dedicated pages:
 6.	Recommendations — Actionable recommendations based on the analytical findings.
 ## 🖼️ Dashboard Preview
 > Interactive Power BI dashboards — click any image to open it full-size.
+## 🖼️ Dashboard Preview
 
-| **Executive Summary** | **Marketing Performance** |
+> Six Power BI dashboard pages — click any image to view it full-size.
+
+| **Executive Summary** | **Funnel Analysis** |
 |:---:|:---:|
-| [![Executive Summary](images/executive_summary.png)](images/executive_summary.png) | [![Marketing Performance](images/marketing_performance.png)](images/marketing_performance.png) |
-| **Device & Checkout Analysis** | **Orders & Revenue** |
-| [![Device & Checkout Analysis](images/device_checkout.png)](images/device_checkout.png) | [![Orders & Revenue](images/orders_revenue.png)](images/orders_revenue.png) |
-| **Customer Retention** | **Recommendations** |
-| [![Customer Retention](images/customer_retention.png)](images/customer_retention.png) | [![Recommendations](images/recommendations.png)](images/recommendations.png) |
+| [![Executive Summary](screenshots/1.Executive%20Summary.jpg)](screenshots/1.Executive%20Summary.jpg) | [![Funnel Analysis](screenshots/2.Funnel%20Analysis.jpg)](screenshots/2.Funnel%20Analysis.jpg) |
+| **Marketing Performance** | **Device & Checkout Analysis** |
+| [![Marketing Performance](screenshots/3.Marketing%20Performance.jpg)](screenshots/3.Marketing%20Performance.jpg) | [![Device & Checkout Analysis](screenshots/4.Device%26Checkout%20Analysis.jpg)](screenshots/4.Device%26Checkout%20Analysis.jpg) |
+| **Orders & Revenue** | **Recommendations** |
+| [![Orders & Revenue](screenshots/5.Orders%26Revenue.jpg)](screenshots/5.Orders%26Revenue.jpg) | [![Recommendations](screenshots/6.%20Recommeddations.jpg)](screenshots/6.%20Recommeddations.jpg) |
+
+
 ## 🧮 SQL Analysis
 SQL was used to prepare and validate the data and investigate business performance through a series of analytical steps:
 -	Database creation and data quality checks
